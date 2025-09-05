@@ -134,7 +134,7 @@ const Contact = () => {
               <FontAwesomeIcon icon={faEnvelope} className="fa-icon" />
               <div>
                 <h3>Email</h3>
-                <p>venkatpantham7@gmail.com</p>
+                <p>spandanameker28@gmail.com</p>
               </div>
             </motion.div>
 
@@ -142,7 +142,7 @@ const Contact = () => {
               <FontAwesomeIcon icon={faMapMarkerAlt} className="fa-icon" />
               <div>
                 <h3>Location</h3>
-                <p>Baltimore, Maryland</p>
+                <p>Pensacola, Florida</p>
               </div>
             </motion.div>
 
@@ -150,13 +150,13 @@ const Contact = () => {
               <FontAwesomeIcon icon={faPhoneAlt} className="fa-icon" />
               <div>
                 <h3>Phone</h3>
-                <p>+1 (202) 656-4229</p>
+                <p>+1 (850) 876-1611</p>
               </div>
             </motion.div>
 
             <div className="social-links-contact">
               <a
-                href="https://github.com/venkatpantham"
+                href="https://github.com/Spandana-28"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="Visit my GitHub profile"
@@ -164,7 +164,7 @@ const Contact = () => {
                 <FontAwesomeIcon icon={faGithub} className="fa-icon" />
               </a>
               <a
-                href="https://linkedin.com/in/venkat-pantham"
+                href="https://www.linkedin.com/in/spandana-m-k-1ab692202/"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="Connect with me on LinkedIn"
@@ -172,7 +172,7 @@ const Contact = () => {
                 <FontAwesomeIcon icon={faLinkedin} className="fa-icon" />
               </a>
               <a
-                href="mailto:venkatpantham7@gmail.com"
+                href="mailto:spandanameker28@gmail.com"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="Send me an email"
